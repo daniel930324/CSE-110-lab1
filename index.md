@@ -89,10 +89,10 @@ print(f"The average of the numbers is: {result}")  # Output: 30.0
 ```
 
 ## Some of My Goals in UCSD
-[ ] Be able to understand the knowledge and foundation of computer science/software engineer
-[ ] Be able to understand how the AI/LLMs works in the foundation
-[ ] Gain more communication skills for negotiating upon certain issues
-[ ] Land an internship before graduate
+  [ ] Be able to understand the knowledge and foundation of computer science/software engineer
+  [ ] Be able to understand how the AI/LLMs works in the foundation
+  [ ] Gain more communication skills for negotiating upon certain issues
+  [ ] Land an internship before graduate
 
 
 ## Thank You For Reading This Page
