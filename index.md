@@ -51,7 +51,7 @@ Beyond programming, I consider myself a curious and adaptable person. I enjoy le
 * [The Elder Scroll V: Skyrim](https://elderscrolls.bethesda.net/en)
 * [Baldur's Gate 3](https://baldursgate3.game/)
 
-<img src="/assets/images/PictureToLakeTahoe.jpg" alt="PictureToLakeTahoe" width="300" height="200">
+<img src="/assets/images/PictureToLakeTahoe.jpg" alt="PictureToLakeTahoe" width="1497" height="1162">
 
 ## How I View Myself as a Programmer
 
@@ -87,3 +87,12 @@ data = [10, 20, 30, 40, 50]
 result = calculate_average(data)
 print(f"The average of the numbers is: {result}")  # Output: 30.0
 ```
+
+## Some of My Goals in UCSD
+- [ ] Be able to understand the knowledge and foundation of computer science/software engineer
+- [ ] Be able to understand how the AI/LLMs works in the foundation
+- [ ] Gain more communication skills for negotiating upon certain issues
+- [ ] Land an internship before graduate
+
+
+## Thank You For Reading This Page
