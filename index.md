@@ -5,11 +5,17 @@
 Here's a quick overview of what you'll find on this page:
 
 [Name Preference](#name-preference)
+
 [Programming Languages](#programming-languages)
+
 [CSE Related Courses Taken at UCSD](#cse-related-courses-taken-at-ucsd)
+
 [How I view myself as a programmer](#how-i-view-myself-as-a-programmer)
+
 [How I view myself as a person](#how-i-view-myself-as-a-person)
+
 [My Goals at UCSD](#my-goals-at-ucsd)
+
 [Thank You for Reading This Page](#thank-you-for-reading-this-page)
 
 ## Name Preference
@@ -41,11 +47,11 @@ Here are some of the Computer Science and Engineering courses I've taken at UCSD
 
 Beyond programming, I consider myself a curious and adaptable person. I enjoy learning new things, whether it's a new programming language, a new skill, or exploring different cultures. Some of my favorite hobbies are playing video games, taking a trip, or doing sports, which I find to be great ways to relax and unwind. My favorite games are:
 
-* League of Legend(https://www.leagueoflegends.com/en-us/)
-* The Elder Scroll V: Skyrim (https://elderscrolls.bethesda.net/en)
-* Baldur's Gate 3 (https://baldursgate3.game/)
+* [League of Legend](https://www.leagueoflegends.com/en-us/)
+* [The Elder Scroll V: Skyrim](https://elderscrolls.bethesda.net/en)
+* [Baldur's Gate 3](https://baldursgate3.game/)
 
-[Here's a picture of me during a recent trip to Lake Tahoe.](/assets/images/PictureToLakeTahoe.jpg)
+![Here's a picture of me during a recent trip to Lake Tahoe.](/assets/images/PictureToLakeTahoe.jpg)
 
 ## How I View Myself as a Programmer
 
