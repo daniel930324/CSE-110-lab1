@@ -51,7 +51,7 @@ Beyond programming, I consider myself a curious and adaptable person. I enjoy le
 * [The Elder Scroll V: Skyrim](https://elderscrolls.bethesda.net/en)
 * [Baldur's Gate 3](https://baldursgate3.game/)
 
-![Here's a picture of me during a recent trip to Lake Tahoe.](/assets/images/PictureToLakeTahoe.jpg)
+<img src="/assets/images/PictureToLakeTahoe.jpg" alt="PictureToLakeTahoe" width="300" height="200">
 
 ## How I View Myself as a Programmer
 
