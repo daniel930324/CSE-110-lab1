@@ -98,3 +98,4 @@ print(f"The average of the numbers is: {result}")  # Output: 30.0
 
 
 ## Thank You For Reading This Page
+[![Testing on Youtube](https://img.youtube.com/vi/XtuZklVrodM/0.jpg)](https://www.youtube.com/watch?v=XtuZklVrodM)
